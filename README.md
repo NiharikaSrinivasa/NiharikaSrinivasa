@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Niharika – aka **WebMonk** 👨‍💻
+# 👋 Hey, I'm Niharika – aka **WebMonk** 👩‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;Fullstack+Dev+%7C+React+Enthusiast;" alt="Typing SVG" />
