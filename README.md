@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Niharika – aka WebMonk 👩‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=6+Years+Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+AI-powered+UI+experiences;Open+to+Gen+AI+%2B+Frontend+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+AI-powered+UI+experiences;Open+to+Gen+AI+%2B+Frontend+roles" alt="Typing SVG" />
 </div>
 
 ---
