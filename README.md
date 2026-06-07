@@ -1,16 +1,17 @@
 # 👋 Hey, I'm Niharika – aka WebMonk 👩‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+AI-powered+UI+experiences;Open+to+Gen+AI+%2B+Frontend+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+WebMonk;React+%7C+Next.js+%7C+TypeScript;Building+AI-powered+UI+experiences;RAG+%7C+LangChain+%7C+Python;Open+to+Gen+AI+%2B+Frontend+roles" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🏢 Senior in frontend engineering at product-based companies
+- 🏢 Product-company frontend engineer, now building AI-native experiences
 - 💻 Specialized in **React**, **Next.js**, **TypeScript** — building scalable, performant UIs
-- 🤖 Currently exploring **Gen AI** — LLM APIs, RAG pipelines, and AI-native UI patterns
+- 🤖 Currently building with **Gen AI** — RAG pipelines, LLM APIs, and AI-native UI patterns
+- 🐍 Using **Python + LangChain** for backend AI/RAG services, Next.js for the frontend layer
 - 🛠️ Focused on **performance**, **developer experience**, and **clean component architecture**
 - 📍 Based in Bengaluru, India · Open to **Gen AI + Frontend roles** (on-site / remote)
 
@@ -24,10 +25,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### Currently Learning
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+#### AI / Gen AI
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -49,7 +53,7 @@
 | Project | Stack | Status |
 |---|---|---|
 | AI Chat UI Component Library | Next.js · TypeScript · Vercel AI SDK | 🚧 In progress |
-| Chat with any PDF (RAG app) | Next.js · OpenAI · pgvector | 📅 Coming soon |
+| Chat with any PDF (RAG app) | Python · LangChain · FastAPI · pgvector · Next.js | 📅 Coming soon |
 | AI Design System Auditor | Next.js · Anthropic API | 📅 Coming soon |
 
 ---
